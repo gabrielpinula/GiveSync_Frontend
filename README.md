@@ -113,8 +113,7 @@ npm install
 Crea un archivo `.env` en la raíz del proyecto:
 
 ```bash
-# Si no existe .env.example, créalo manualmente
-touch .env
+cp .env.example .env
 ```
 
 Edita el archivo `.env` con tu configuración (ver en la sección de configuración).
