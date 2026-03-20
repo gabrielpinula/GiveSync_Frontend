@@ -18,7 +18,6 @@ GiveSync es una plataforma que conecta donantes con instituciones benéficas, pe
 
 #### Página Principal
 ![4Home](./img/screenshots/general/4Home.png)
-*Lista de instituciones benéficas disponibles para donaciones*
 
 #### Detalles de Institución
 ![5InstitutionDetails](./img/screenshots/general/5InstitutionDetails.png)
@@ -26,7 +25,6 @@ GiveSync es una plataforma que conecta donantes con instituciones benéficas, pe
 
 #### Proceso de Donación
 ![6Donation](./img/screenshots/general/6Donation.png)
-*Formulario para realizar una donación monetaria*
 
 ### Panel de Usuario
 
@@ -34,9 +32,8 @@ GiveSync es una plataforma que conecta donantes con instituciones benéficas, pe
 ![1Home](./img/screenshots/user/1Home.png)
 *Página principal para usuarios autenticados*
 
-#### Configuración de Usuario
+#### Configuración de perfil de usuario
 ![2UserSettingsPage](./img/screenshots/user/2UserSettingsPage.png)
-*Panel de configuración de perfil de usuario*
 
 #### Historial de Donaciones
 *Historial de donaciones realizadas por el usuario y vista alternativa*
@@ -56,7 +53,6 @@ GiveSync es una plataforma que conecta donantes con instituciones benéficas, pe
 
 #### Sistema de Notificaciones
 ![6Notification](./img/screenshots/user/6Notification.png)
-*Panel de notificaciones para usuarios*
 
 ### Panel de Institución
 
@@ -68,7 +64,6 @@ GiveSync es una plataforma que conecta donantes con instituciones benéficas, pe
 
 #### Configuración de la Institución
 ![2ConfigurationOfTheInstitution](./img/screenshots/userWithInstitution/2ConfigurationOfTheInstitution.png)
-*Configuración de datos institucionales*
 
 #### Donaciones Recibidas
 ![3DonationsToMyInstitution](./img/screenshots/userWithInstitution/3DonationsToMyInstitution.png)
@@ -79,13 +74,11 @@ GiveSync es una plataforma que conecta donantes con instituciones benéficas, pe
 
 #### Notificaciones
 ![5Notification](./img/screenshots/userWithInstitution/5Notification.png)
-*Panel de notificaciones*
 
 ### Panel de Administrador
 
-#### Lista de Instituciones
+#### Lista de todas las istituciones registradas
 ![1AllInstitutions](./img/screenshots/admin/1AllInstitutions.png)
-*Gestión de todas las instituciones registradas*
 
 #### Solicitudes de Instituciones
 *Lista de solicitudes pendientes de registro de instituciones*
@@ -96,7 +89,7 @@ GiveSync es una plataforma que conecta donantes con instituciones benéficas, pe
 #### Historial de Donaciones
 ![3AllDonationsMade](./img/screenshots/admin/3AllDonationsMade.png)
 
-## Flujo de Usuario Típico
+## Flujo de Usuario
 
 1. **Landing Page** → Usuario llega a la página principal
 2. **Exploración** → Navega por las instituciones disponibles
@@ -104,7 +97,7 @@ GiveSync es una plataforma que conecta donantes con instituciones benéficas, pe
 4. **Donación** → Realiza una donación a una institución
 5. **Seguimiento** → Revisa su historial y recibe notificaciones
 
-## Flujo de Institución Típica
+## Flujo de Institución
 
 1. **Solicitud** → Solicita el registro de su institución
 2. **Aprobación** → Espera la aprobación del administrador
@@ -112,7 +105,7 @@ GiveSync es una plataforma que conecta donantes con instituciones benéficas, pe
 4. **Publicaciones** → Comparte actualizaciones sobre sus actividades
 5. **Donaciones** → Recibe y gestiona las donaciones
 
-## Flujo de Administrador Típico
+## Flujo de Administrador
 
 1. **Dashboard** → Accede al panel administrativo
 2. **Solicitudes** → Revisa y aprueba/rechaza instituciones
